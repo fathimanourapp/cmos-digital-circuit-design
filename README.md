@@ -1,6 +1,6 @@
 # cmos-digital-circuit-design
 
-```markdown
+
 # CMOS Digital Circuit Design using Cadence Virtuoso
 
 Implementation and analysis of CMOS digital circuits using **Cadence Virtuoso** in **90 nm CMOS technology**. This project covers MOSFET characterization, CMOS inverter design, delay and power analysis, transistor sizing, CMOS NAND gate design, layout implementation, and physical verification using DRC and LVS.
@@ -158,4 +158,4 @@ cmos-digital-circuit-design
 ## License
 
 This repository is intended for educational and learning purposes.
-```
+
